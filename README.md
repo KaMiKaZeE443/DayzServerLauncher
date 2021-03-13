@@ -9,5 +9,7 @@ Please note, this expects you have set up your restart timer on the server throu
 messages.xml can be found in (YourServerRootDirectory/mpmissions/yourmission.name/db/)
 
 Feel free to contact me on steam or discord if you need help with this
+
 Discord - KaMiKaZeE#5537
+
 Steam - https://steamcommunity.com/profiles/76561198149822260/
